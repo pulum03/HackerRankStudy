@@ -1,2 +1,2 @@
 # HackerRankStudy
-# HackerRankStudy
+Python, SQL, Statistics, Algoritms, Program solving, etc...
