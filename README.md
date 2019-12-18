@@ -1,2 +1,8 @@
 # HackerRankStudy
-Python, SQL, Statistics, Algoritms, Program solving, etc...
+Program solving: solved by Python3
+
+Statistics: solved by Python3
+
+SQL: solved by MYSQL
+
+etc...
