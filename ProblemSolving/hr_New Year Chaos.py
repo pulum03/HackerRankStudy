@@ -1,4 +1,3 @@
-New Year Chaos
 
 #!/bin/python3
 
