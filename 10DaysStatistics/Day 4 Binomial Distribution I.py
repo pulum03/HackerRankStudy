@@ -2,7 +2,7 @@ from math import factorial
 
 def bionomial(x,n,p):
     factional_part = factorial(n)/(factorial(x)*factorial(n-x))
-    result =factional_part*p**x*(1-p)**(n-x)
+    result = factional_part*p**x*(1-p)**(n-x)
     return result
 
 
